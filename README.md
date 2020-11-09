@@ -14,5 +14,5 @@ you get error window.
 <li>Run <code>npm</code install.</li>
   <li>Run <code>npm start</code>.</li>
 </ol>
-Open http://localhost:3000 to view it in the browser.
+Open [Local Host](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
